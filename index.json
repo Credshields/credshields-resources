@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "title": "Web3 Security Report H1 2025",
+    "description": "More than $2.5B Lost in H1 2025. Our report reveals how it happened & how to stay secure.",
+    "category": "Report",
+    "files": {
+      "resource": {
+        "name": "Web3 Security Report By CredShields.pdf",
+        "path": "https://raw.githubusercontent.com/Credshields/credshields-resources/master/web3-security-report-h1-2025/Web3 Security Report By CredShields.pdf",
+        "hash": "e6d87c485357dba0cef69a7931aefa3aba408bddca80d30407675de87314885d"
+      },
+      "image": {
+        "name": "Security H1 2025.png",
+        "path": "https://raw.githubusercontent.com/Credshields/credshields-resources/master/web3-security-report-h1-2025/assets/Security H1 2025.png",
+        "hash": "46dd6d4951b69f97a2cd40eae588ffa7be2b12899237287eec307f2f0c41c2f6"
+      }
+    },
+    "createdAt": "2026-01-07T09:21:37.383Z"
+  }
+]
