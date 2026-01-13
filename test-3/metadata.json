@@ -1,0 +1,15 @@
+{
+  "id": "test-3",
+  "title": "Test 3",
+  "description": "Test desc",
+  "category": "whitepapers",
+  "resource_form": "https://resources.credshields.com/",
+  "files": {
+    "image": {
+      "name": "file_upload_banner.svg",
+      "path": "assets/file_upload_banner.svg",
+      "hash": "1ac55ca22fab0e7548d5becb307705632a494cb6544ea5151d6a21ee4f45aebb"
+    }
+  },
+  "createdAt": "2026-01-13T13:01:59.282Z"
+}
