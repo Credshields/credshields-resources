@@ -1,0 +1,17 @@
+[
+  {
+    "id": "test",
+    "title": "Test",
+    "description": "Test",
+    "category": "ebook",
+    "resource_form": "https://resources.credshields.com/",
+    "files": {
+      "image": {
+        "name": "test.png",
+        "path": "https://raw.githubusercontent.com/Credshields/credshields-resources/master/test/assets/test.png",
+        "hash": "85fdc67014f70d1712f3cc7ebfcb42e096af02b3dd7af878de034a60487c09ce"
+      }
+    },
+    "createdAt": "2026-01-13T12:54:27.782Z"
+  }
+]
