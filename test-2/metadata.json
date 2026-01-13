@@ -1,0 +1,15 @@
+{
+  "id": "test-2",
+  "title": "Test 2",
+  "description": "test 2",
+  "category": "ebook",
+  "resource_form": "https://resources.credshields.com/",
+  "files": {
+    "image": {
+      "name": "test.png",
+      "path": "assets/test.png",
+      "hash": "85fdc67014f70d1712f3cc7ebfcb42e096af02b3dd7af878de034a60487c09ce"
+    }
+  },
+  "createdAt": "2026-01-13T12:54:59.844Z"
+}
