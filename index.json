@@ -1,5 +1,20 @@
 [
   {
+    "id": "test-4",
+    "title": "Test 4",
+    "description": "New check",
+    "category": "whitepapers",
+    "resource_form": "https://resources.credshields.com/",
+    "files": {
+      "image": {
+        "name": "billing.svg",
+        "path": "https://raw.githubusercontent.com/Credshields/credshields-resources/master/test-4/assets/billing.svg",
+        "hash": "05db1e9dd5f9cf2e09e6a898954ef5d127fab075b4b9d0976d7ca5db57a214fe"
+      }
+    },
+    "createdAt": "2026-01-13T13:03:11.028Z"
+  },
+  {
     "id": "test-3",
     "title": "Test 3",
     "description": "Test desc",
