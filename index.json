@@ -1,5 +1,20 @@
 [
   {
+    "id": "state-of-web3-security-2025",
+    "title": "State of Web3 Security 2025",
+    "description": "A comprehensive overview of the evolving Web3 threat landscape, highlighting major breaches, systemic control failures, and emerging security risks that shaped 2025.",
+    "category": "Report",
+    "resource_form": "https://eth5y.share-eu1.hsforms.com/2YFC7xCoJQiqSwRhNi0-VGA",
+    "files": {
+      "image": {
+        "name": "H2.png",
+        "path": "https://raw.githubusercontent.com/Credshields/credshields-resources/master/state-of-web3-security-2025/assets/H2.png",
+        "hash": "86aa85256a787fd6e8751fdc1fe26f2489c8b1cd090fd8564a70607d0d58d689"
+      }
+    },
+    "createdAt": "2026-01-14T15:14:31.230Z"
+  },
+  {
     "id": "h1-2025-web3-security-report",
     "title": "H1 2025 Web3 Security Report",
     "description": "An analysis of Web3 security incidents in H1 2025, revealing $2.72B lost across 56 hacks, with exchanges and access control failures as the leading risk vectors.",
