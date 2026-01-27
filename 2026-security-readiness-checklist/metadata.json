@@ -1,0 +1,15 @@
+{
+  "id": "2026-security-readiness-checklist",
+  "title": "2026 Security Readiness Checklist",
+  "description": "Security audit framework to help organizations identify systemic risk across governance, access control, infrastructure, and incident response.",
+  "category": "checklists",
+  "resource_form": "https://eth5y.share-eu1.hsforms.com/2T4D32qb7RS2Vtw4Mz4W69g",
+  "files": {
+    "image": {
+      "name": "2026 Security Readiness Checklist.png",
+      "path": "assets/2026 Security Readiness Checklist.png",
+      "hash": "438805d88dc2d2ba72d256293589579ad3412d486485fcb8160d0dd6819e66ef"
+    }
+  },
+  "createdAt": "2026-01-27T08:00:46.963Z"
+}
