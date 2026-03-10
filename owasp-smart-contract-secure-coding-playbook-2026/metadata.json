@@ -1,0 +1,15 @@
+{
+  "id": "owasp-smart-contract-secure-coding-playbook-2026",
+  "title": "OWASP Smart Contract Secure Coding Playbook (2026)",
+  "description": "OWASP Smart Contract Secure Coding Playbook (2026) is a practical implementation guide that translates the OWASP Smart Contract Top 10 into secure coding patterns, architectural safeguards, and testing strategies for production grade smart contracts.",
+  "category": "guides",
+  "resource_form": "https://eth5y.share-eu1.hsforms.com/2Z9VOodiMTR-JsUUeOoej_g",
+  "files": {
+    "image": {
+      "name": "OWASP Smart Contract Secure Coding Playbook 2026.png",
+      "path": "assets/OWASP Smart Contract Secure Coding Playbook 2026.png",
+      "hash": "02bc4dd0b6d6879b97ad89eef51eb3713e515f0d2d8fd783977dece87035c87b"
+    }
+  },
+  "createdAt": "2026-03-10T12:00:45.802Z"
+}
