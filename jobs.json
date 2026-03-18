@@ -1,0 +1,24 @@
+[
+  {
+    "id": "senior-qa",
+    "title": "Senior QA",
+    "department": "Engineering",
+    "location": "Remote",
+    "employment_type": "Part-time",
+    "experience_level": "Entry",
+    "description": "sdas",
+    "responsibilities": [
+      "sas"
+    ],
+    "requirements": [
+      "sda"
+    ],
+    "nice_to_have": [
+      "sdsad"
+    ],
+    "application_form": "http://localhost:3000/recruitment",
+    "salary_range": "sdasd",
+    "createdAt": "2026-03-18T09:29:55.505Z",
+    "updatedAt": "2026-03-18T09:29:55.505Z"
+  }
+]
