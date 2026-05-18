@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "senior-full-stack-engineer",
+    "title": "Senior Full-Stack Engineer",
+    "department": "Engineering",
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "experience_level": "Entry",
+    "description": "We're looking for a Senior Full-Stack Engineer to join our growing platform team. You'll own features end-to-end, from technical design through deployment, working closely with product, design, and infrastructure. Our stack is TypeScript, React, Node.js, and PostgreSQL on AWS. You'll have significant autonomy to shape both the product and the engineering culture as we scale.",
+    "responsibilities": [
+      "Design and build scalable features across the full stack",
+      "Lead technical planning for medium-to-large projects",
+      "Mentor mid-level engineers through code review and pairing",
+      "Collaborate with product and design on roadmap and tradeoffs",
+      "Improve developer experience, tooling, and CI/CD pipelines",
+      "Participate in on-call rotation (one week every 6-8 weeks)"
+    ],
+    "requirements": [
+      "5+ years of professional software engineering experience",
+      "Strong proficiency in TypeScript and modern React",
+      "Experience designing and operating production Node.js services",
+      "Solid grasp of relational databases and SQL performance",
+      "Track record of shipping user-facing features end-to-end",
+      "Excellent written communication for async collaboration"
+    ],
+    "nice_to_have": [
+      "Experience with AWS (ECS, RDS, Lambda, S3)",
+      "Background at an early-stage startup",
+      "Exposure to GraphQL or tRPC",
+      "Contributions to open-source projects",
+      "Familiarity with observability tools (Datadog, Sentry)"
+    ],
+    "salary_range": "$180k-$250k",
+    "createdAt": "2026-05-18T09:11:59.817Z",
+    "updatedAt": "2026-05-18T09:11:59.817Z"
+  }
+]
