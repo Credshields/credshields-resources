@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "id": "account-executive",
+    "title": "Account Executive",
+    "department": "Finance",
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "experience_level": "Mid",
+    "description": "As an Account Executive at CredShields, you will own the full sales cycle from prospecting through close, driving enterprise adoption of next-generation offensive security infrastructure. You will engage security leaders, engineering teams, and executive stakeholders to help organizations modernize how they approach application and cloud security.\n\n\nThis is a high-impact, execution-driven role built for commercially minded operators who thrive in complex technical sales environments and want to operate at the intersection of AI, cybersecurity, and enterprise software.",
+    "responsibilities": [
+      "Own the full sales cycle from outbound prospecting and discovery through product demonstrations, commercial negotiation, and close.",
+      "Build and manage pipeline through a combination of self-sourced outbound activity and SDR partnership.",
+      "Lead technical and business-focused product demonstrations tailored to customer security and infrastructure environments.",
+      "Build trusted relationships with CISOs, security teams, engineering leaders, and executive stakeholders across enterprise accounts.",
+      "Develop and execute territory and account strategies to drive consistent net-new revenue growth.",
+      "Maintain strong pipeline discipline, forecasting accuracy, and CRM hygiene across all active opportunities.",
+      "Partner closely with Product and Marketing to strengthen go-to-market execution and customer outcomes."
+    ],
+    "requirements": [
+      "4-6+ years of B2B cybersecurity sales experience with a strong track record of closing deals.",
+      "Proven ability to manage complex, multi-stakeholder sales cycles across technical and executive buying committees.",
+      "Strong ability to communicate technical concepts and translate product capabilities into clear business outcomes and ROI.",
+      "Experience with modern GTM tooling including HubSpot, Salesforce, Salesloft, Outreach, Apollo, and LinkedIn Sales Navigator.",
+      "Self-driven operator with strong outbound discipline, pipeline ownership, and execution consistency.",
+      "Familiarity with cybersecurity domains such as penetration testing, vulnerability management, cloud security, or compliance frameworks including SOC2 and ISO 27001.",
+      "Comfortable operating in high-growth startup environments without rigid playbooks."
+    ],
+    "nice_to_have": [
+      "Proven success selling cybersecurity, infrastructure, or developer-focused products into enterprise environments.",
+      "Experience engaging technical stakeholders across security, engineering, DevOps, and platform teams.",
+      "Strong understanding of modern cloud-native environments, application security, and DevSecOps workflows.",
+      "Demonstrated ability to independently build pipeline and close complex enterprise opportunities.",
+      "Experience operating across multi-region territories or international enterprise accounts.",
+      "Professional fluency in a second language relevant to target markets is a strong advantage."
+    ],
+    "salary_range": "",
+    "createdAt": "2026-05-26T05:06:58.599Z",
+    "updatedAt": "2026-05-26T05:06:58.599Z"
+  }
+]
