@@ -40,7 +40,7 @@
   {
     "id": "sales-development-representative",
     "title": "Sales Development Representative",
-    "department": "Sales & Marketing",
+    "department": "Business Development",
     "location": "Remote",
     "employment_type": "Full-time",
     "experience_level": "Mid",
@@ -70,7 +70,7 @@
     ],
     "salary_range": "",
     "createdAt": "2026-05-26T05:09:16.546Z",
-    "updatedAt": "2026-05-26T05:09:16.546Z"
+    "updatedAt": "2026-06-11T10:55:16.263Z"
   },
   {
     "id": "sales-development-representative-sdr",
