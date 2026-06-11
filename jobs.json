@@ -111,5 +111,47 @@
     "salary_range": "",
     "createdAt": "2026-06-11T10:55:04.180Z",
     "updatedAt": "2026-06-11T10:55:31.446Z"
+  },
+  {
+    "id": "frontend-developer",
+    "title": "Frontend Developer",
+    "department": "Technology",
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "experience_level": "Mid",
+    "description": "CredShields builds AI powered offensive cybersecurity infrastructure (penetration testing and continuous security validation), trusted by 250+ projects globally. Its flagship platform, SolidityScan, has powered 4M+ scans with 700+ vulnerability detectors and AI-assisted remediation across leading blockchain ecosystems. In this role you'll design and build intuitive, scalable, high performance user experiences for the company's AI powered offensive security platform, working closely with product, engineering, design, and security teams to turn complex security workflows into seamless, developer friendly interfaces. It's suited to highly driven engineers who enjoy ownership, move fast, and want to build category defining products at the intersection of AI and cybersecurity.",
+    "responsibilities": [
+      "Build and maintain scalable frontend applications and reusable UI components across the CredShields platform.",
+      "Develop responsive, high quality user interfaces with a strong focus on usability, accessibility, and performance.",
+      "Translate product requirements and design concepts into production grade frontend experiences.",
+      "Collaborate closely with backend, product, and security teams to deliver end-to-end product capabilities.",
+      "Integrate frontend applications with APIs and modern service architectures.",
+      "Drive improvements in frontend architecture, testing practices, and engineering standards.",
+      "Optimize application performance, reliability, and user experience across environments.",
+      "Contribute to design systems and frontend best practices that scale with product growth."
+    ],
+    "requirements": [
+      "2–4+ years of experience in frontend development within product, SaaS, or technology-driven environments.",
+      "Strong proficiency in JavaScript and TypeScript.",
+      "Hands-on experience building production applications using React.js and modern frontend frameworks.",
+      "Experience with Next.js and component-based architecture.",
+      "Strong understanding of HTML5, CSS3, responsive design principles, and browser performance optimization.",
+      "Experience integrating REST APIs and managing asynchronous application flows.",
+      "Strong understanding of Git workflows and collaborative software development practices.",
+      "Excellent problem solving and communication skills with the ability to work cross functionally."
+    ],
+    "nice_to_have": [
+      "Highly relevant experience and product mindset aligned with CredShields.",
+      "Experience building complex dashboards, workflow heavy applications, or technical platforms.",
+      "Strong understanding of frontend scalability, state management, and component driven design.",
+      "Experience with Tailwind CSS, design systems, or frontend performance optimization.",
+      "Exposure to security first engineering practices and secure frontend development.",
+      "Ability to independently own features from concept to production deployment.",
+      "Experience operating in fast moving startup environments with strong execution discipline.",
+      "Interest or exposure to cybersecurity, DevSecOps, developer tooling, AI products, or modern engineering ecosystems."
+    ],
+    "salary_range": "",
+    "createdAt": "2026-06-11T10:58:16.177Z",
+    "updatedAt": "2026-06-11T10:58:16.177Z"
   }
 ]
