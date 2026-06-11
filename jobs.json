@@ -2,7 +2,7 @@
   {
     "id": "account-executive",
     "title": "Account Executive",
-    "department": "Finance",
+    "department": "Business Development/Sales",
     "location": "Remote",
     "employment_type": "Full-time",
     "experience_level": "Mid",
@@ -35,7 +35,7 @@
     ],
     "salary_range": "",
     "createdAt": "2026-05-26T05:06:58.599Z",
-    "updatedAt": "2026-05-26T05:06:58.599Z"
+    "updatedAt": "2026-06-11T10:55:39.338Z"
   },
   {
     "id": "sales-development-representative",
