@@ -75,7 +75,7 @@
   {
     "id": "sales-development-representative-sdr",
     "title": "Sales Development Representative (SDR)",
-    "department": "Business Development",
+    "department": "Business Development/Sales",
     "location": "India",
     "employment_type": "Full-time",
     "experience_level": "Mid",
@@ -110,6 +110,6 @@
     ],
     "salary_range": "",
     "createdAt": "2026-06-11T10:55:04.180Z",
-    "updatedAt": "2026-06-11T10:55:04.180Z"
+    "updatedAt": "2026-06-11T10:55:31.446Z"
   }
 ]
