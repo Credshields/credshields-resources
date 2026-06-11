@@ -153,5 +153,61 @@
     "salary_range": "",
     "createdAt": "2026-06-11T10:58:16.177Z",
     "updatedAt": "2026-06-11T10:58:16.177Z"
+  },
+  {
+    "id": "marketing-executive-manager",
+    "title": "Marketing Executive/ Manager",
+    "department": "Marketing",
+    "location": "Remote",
+    "employment_type": "Full-time",
+    "experience_level": "Mid",
+    "description": "We are aa cybersecurity company building AI powered offensive security solutions for modern engineering teams. Our flagship platform, CredShields One, helps organizations continuously identify, validate, and remediate security risks across applications, infrastructure, APIs, and code through intelligent automated testing and attack surface visibility. In this role you'll lead and scale marketing efforts for CredShields One, working closely with founders, product, sales, and design teams to build category awareness, generate qualified pipeline, strengthen brand positioning, and drive growth across digital channels. It's a hands on role suited to someone who understands modern B2B SaaS marketing, cybersecurity positioning, developer first products, and demand generation, and who's excited to build marketing in a fast moving cybersecurity startup.",
+    "responsibilities": [
+      "Brand & Positioning",
+      "Develop and strengthen positioning and messaging for CredShields One across digital channels.",
+      "Create compelling narratives around AI-powered security testing, continuous pentesting, attack surface management, and DevSecOps workflows.",
+      "Build thought leadership through blogs, reports, webinars, case studies, and founder-led content.",
+      "Ensure consistent brand communication across websites, social media, campaigns, and sales collateral.",
+      "Content & Demand Generation",
+      "Own and execute content strategy across LinkedIn, X (Twitter), website, email campaigns, and newsletters.",
+      "Create high-quality content including blogs, landing pages, whitepapers, customer stories, and product explainers.",
+      "Plan and execute demand generation campaigns targeting CISOs, security teams, engineering leaders, and startups.",
+      "Collaborate with sales teams to support lead nurturing and conversion.",
+      "Drive organic growth through SEO-focused and product-led content strategies.",
+      "Digital Marketing & Growth",
+      "Manage and optimize paid and organic marketing campaigns across relevant channels.",
+      "Track campaign performance and improve conversion funnels across awareness, engagement, and lead generation stages.",
+      "Support website optimization including messaging, user journeys, and conversion improvements.",
+      "Analyze marketing metrics such as traffic, engagement, MQLs, CAC, and campaign ROI.",
+      "Social Media & Community",
+      "Manage CredShields' social presence across LinkedIn, X, YouTube, and other platforms.",
+      "Build engagement with cybersecurity, startup, and developer communities.",
+      "Coordinate webinars, virtual events, product launches, and ecosystem partnerships.",
+      "Monitor industry trends and identify opportunities for brand visibility and strategic collaborations.",
+      "Cross-functional Collaboration",
+      "Work with product, engineering, and leadership teams to translate technical capabilities into customer-facing value.",
+      "Coordinate with designers, video editors, and external partners for campaign execution.",
+      "Support PR, media outreach, and analyst relations when required."
+    ],
+    "requirements": [
+      "2–4 years of experience in B2B SaaS, cybersecurity, developer tools, or technology marketing.",
+      "Strong understanding of growth marketing, content marketing, and demand generation.",
+      "Excellent written and verbal communication skills.",
+      "Experience creating marketing content for technical or enterprise audiences.",
+      "Familiarity with LinkedIn marketing, SEO, email campaigns, webinars, and marketing analytics.",
+      "Experience using tools such as HubSpot, Google Analytics, Canva, Notion, or similar platforms.",
+      "Ability to work in a fast-paced startup environment with high ownership.",
+      "Strong storytelling and campaign execution capabilities."
+    ],
+    "nice_to_have": [
+      "Prior experience in cybersecurity, DevSecOps, offensive security, or developer tooling companies.",
+      "Experience marketing AI-powered SaaS products.",
+      "Exposure to startup ecosystems and founder-led growth.",
+      "Experience managing webinars, reports, or technical content marketing.",
+      "Understanding of application security, penetration testing, or cloud security concepts."
+    ],
+    "salary_range": "",
+    "createdAt": "2026-06-11T11:02:06.544Z",
+    "updatedAt": "2026-06-11T11:02:06.544Z"
   }
 ]
