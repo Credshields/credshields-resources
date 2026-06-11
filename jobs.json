@@ -71,5 +71,45 @@
     "salary_range": "",
     "createdAt": "2026-05-26T05:09:16.546Z",
     "updatedAt": "2026-05-26T05:09:16.546Z"
+  },
+  {
+    "id": "sales-development-representative-sdr",
+    "title": "Sales Development Representative (SDR)",
+    "department": "Business Development",
+    "location": "India",
+    "employment_type": "Full-time",
+    "experience_level": "Mid",
+    "description": "A remote role based in India (with travel as required). CredShields builds AI powered offensive cybersecurity infrastructure (penetration testing and continuous security validation). In this role you'll generate and qualify outbound pipeline across global target accounts, engaging and qualifying prospective customers while representing an AI powered offensive security platform built for modern engineering and security teams. It's an execution focused role suited to ambitious sales professionals who enjoy outbound prospecting and engaging with technical buyers, positioned at the intersection of AI and cybersecurity.",
+    "responsibilities": [
+      "Build and manage outbound pipeline through structured prospecting across email, LinkedIn, cold calling, events, and other channels.",
+      "Research target accounts and identify key stakeholders across Security, Engineering, DevOps, Platform Engineering, and Technology leadership teams.",
+      "Execute highly personalized outbound campaigns to generate qualified meetings and opportunities.",
+      "Qualify prospects by understanding their security challenges, infrastructure environment, current testing processes, and business priorities.",
+      "Collaborate with Account Executives to convert qualified prospects into high-quality sales opportunities.",
+      "Maintain accurate CRM records, activity tracking, pipeline visibility, and reporting discipline.",
+      "Partner with Marketing to optimize messaging, targeting strategies, and outbound performance.",
+      "Continuously refine outreach strategies using data, feedback, and market insights."
+    ],
+    "requirements": [
+      "3–4 years of experience in B2B outbound sales, business development, lead generation, or SDR roles.",
+      "Experience selling or prospecting into cybersecurity, SaaS, cloud, infrastructure, DevOps, or technology-focused organizations (highly preferred).",
+      "Proven ability to generate qualified pipeline through cold outreach and multi-channel prospecting.",
+      "Hands-on experience with LinkedIn Sales Navigator, Apollo, ZoomInfo, HubSpot, Salesforce, Outreach, Salesloft, or similar tools.",
+      "Strong written and verbal communication skills, able to engage both technical and business stakeholders.",
+      "Excellent organizational skills and a disciplined approach to activity management and execution.",
+      "Self-motivated, resilient, and comfortable in fast-paced, target-driven environments."
+    ],
+    "nice_to_have": [
+      "Experience engaging technical buyers including CISOs, Security Leaders, Engineering Managers, DevOps Leaders, and CTOs.",
+      "Curiosity and willingness to learn cybersecurity concepts, cloud security, API security, application security, and DevSecOps.",
+      "Ability to understand complex technical topics and communicate their business impact.",
+      "Demonstrated success converting cold outreach into meetings with senior decision-makers.",
+      "Ownership mindset with the ability to independently build and manage pipeline.",
+      "Strong execution discipline and consistency in high-growth, high-velocity GTM environments.",
+      "Previous experience in cybersecurity, developer tools, infrastructure software, or enterprise SaaS."
+    ],
+    "salary_range": "",
+    "createdAt": "2026-06-11T10:55:04.180Z",
+    "updatedAt": "2026-06-11T10:55:04.180Z"
   }
 ]
