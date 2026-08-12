@@ -38,41 +38,6 @@
     "updatedAt": "2026-08-12T04:53:04.668Z"
   },
   {
-    "id": "sales-development-representative",
-    "title": "Sales Development Representative",
-    "department": "Business Development/Sales",
-    "location": "Remote/USA",
-    "employment_type": "Full-time",
-    "experience_level": "Mid",
-    "description": "As an SDR at CredShields, you will own outbound pipeline generation across target accounts and industries. You will identify, engage, and qualify prospective customers while representing an AI-powered offensive security platform built for modern engineering teams.\nThis is a fast-paced, execution-driven role designed for highly driven individuals who thrive in high-volume outbound environments and want to operate at the forefront of AI and cybersecurity.",
-    "responsibilities": [
-      "Build and own pipeline through structured outbound prospecting across email, LinkedIn, cold calling, and other channels.",
-      "Identify and qualify prospective customers by understanding their security challenges, infrastructure, and buying readiness.",
-      "Execute targeted outbound campaigns to engage technical and executive stakeholders across target accounts.",
-      "Partner closely with Account Executives to convert qualified prospects into high-quality pipeline opportunities.",
-      "Maintain strong CRM hygiene with accurate activity tracking, pipeline management, and forecasting visibility.",
-      "Work closely with Marketing to refine targeting, messaging, and outbound performance."
-    ],
-    "requirements": [
-      "2-4+ years of B2B outbound sales or business development experience in cybersecurity.",
-      "Proven ability to generate qualified pipelines through cold outbound prospecting and multi-channel outreach.",
-      "Strong experience with outbound tooling including LinkedIn Sales Navigator, Apollo/ZoomInfo, CRMs, and sequencing platforms.",
-      "Strong written and verbal communication skills with the ability to engage both technical and business stakeholders.",
-      "Highly organized with strong execution discipline in fast-paced, target-driven environments."
-    ],
-    "nice_to_have": [
-      "Highly relevant experience and network to Credshields",
-      "Experience engaging technical buyers across cybersecurity, infrastructure, or developer-focused environments, including security, engineering, and DevOps stakeholders.",
-      "Ability to quickly understand and clearly communicate technical concepts across cloud security, DevSecOps, API security, and modern application vulnerabilities.",
-      "Demonstrated ability to independently build and own pipeline, taking full responsibility for your target territory and outbound performance.",
-      "Proven ability to convert cold outreach into high-quality meetings with technical and business decision-makers in complex, fast-moving environments.",
-      "Ability to operate with precision, structure, and consistency in ambiguous, high-velocity GTM environments."
-    ],
-    "salary_range": "",
-    "createdAt": "2026-05-26T05:09:16.546Z",
-    "updatedAt": "2026-08-12T04:53:15.588Z"
-  },
-  {
     "id": "sales-development-representative-sdr",
     "title": "Sales Development Representative (SDR)",
     "department": "Business Development/Sales",
