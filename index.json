@@ -1,5 +1,20 @@
 [
   {
+    "id": "test",
+    "title": "Test",
+    "description": "Test",
+    "category": "ebook",
+    "resource_form": "https://eth5y.share-eu1.hsforms.com/2FzeMuuF9RwazWMZG4xj72Q",
+    "files": {
+      "image": {
+        "name": "asean-data-flows-cover.png",
+        "path": "https://raw.githubusercontent.com/Credshields/credshields-resources/master/test/assets/asean-data-flows-cover.png",
+        "hash": "970915fb38b9df606656d3eeaf8bf033d09d35b5dfd13f113e910a16a2049c7f"
+      }
+    },
+    "createdAt": "2026-08-27T07:38:29.831Z"
+  },
+  {
     "id": "owasp-smart-contract-secure-coding-playbook-2026",
     "title": "OWASP Smart Contract Secure Coding Playbook (2026)",
     "description": "OWASP Smart Contract Secure Coding Playbook (2026) is a practical implementation guide that translates the OWASP Smart Contract Top 10 into secure coding patterns, architectural safeguards, and testing strategies for production grade smart contracts.",
