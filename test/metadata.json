@@ -1,0 +1,15 @@
+{
+  "id": "test",
+  "title": "Test",
+  "description": "Test",
+  "category": "ebook",
+  "resource_form": "https://eth5y.share-eu1.hsforms.com/2FzeMuuF9RwazWMZG4xj72Q",
+  "files": {
+    "image": {
+      "name": "asean-data-flows-cover.png",
+      "path": "assets/asean-data-flows-cover.png",
+      "hash": "970915fb38b9df606656d3eeaf8bf033d09d35b5dfd13f113e910a16a2049c7f"
+    }
+  },
+  "createdAt": "2026-08-27T07:38:29.831Z"
+}
